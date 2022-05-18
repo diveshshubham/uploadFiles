@@ -10,6 +10,7 @@
 
 - install the pacakages and dependencies by running npm install --save
 - make and .env file and write your credentials there as per the sample_env.txt file
+- make sure to have mongo db setup in your device or you have any mongo uri to connect
 - after installation of npm pacakages run the command npm start or nodemon server.js in the default project directory
 
 -  👉 👉 👉 refer testApi.md for testing the APIs 👈 👈 👈 
